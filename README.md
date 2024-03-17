@@ -5,7 +5,7 @@
 3. Buka terminal atau command prompt.
 4. Navigasikan ke direktori tempat Anda menyimpan file  2208107010086_simple_sorting.c menggunakan perintah cd.
 5. Compile program menggunakan perintah berikut:
-   gcc  2208107010086_simple_sorting.cc -o  2208107010086_simple_sorting
+   gcc  2208107010086_simple_sorting.c -o  2208107010086_simple_sorting
    Pastikan tidak ada pesan kesalahan saat kompilasi.
 6. Jalankan program dengan mengetikkan nama file eksekusi yang telah Anda tentukan, misalnya:
    ./ 2208107010086_simple_sorting
